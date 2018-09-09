@@ -1,4 +1,4 @@
-<style type="text/css">
+h1{
 margin-top: 50px;
 margin-bottom: 20px;
 border-style: solid;
@@ -8,4 +8,8 @@ text-align: center;
 padding: 10px;
 background-color: #f17389;
 color: white;
-</style>
+}
+
+#box{
+  border-style: solid;
+}
